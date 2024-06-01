@@ -1,0 +1,2 @@
+[console_scripts]
+serpentscribe = src.cli:main

@@ -1,0 +1,12 @@
+setup.py
+serpentscribe.egg-info/PKG-INFO
+serpentscribe.egg-info/SOURCES.txt
+serpentscribe.egg-info/dependency_links.txt
+serpentscribe.egg-info/entry_points.txt
+serpentscribe.egg-info/requires.txt
+serpentscribe.egg-info/top_level.txt
+src/__init__.py
+src/cli.py
+src/format.py
+src/handler.py
+src/utilities.py
